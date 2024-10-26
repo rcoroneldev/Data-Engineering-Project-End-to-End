@@ -36,6 +36,3 @@ __Created By:__ Romario Coronel
 ![Step 7 screenshot](https://images.tango.us/workflows/163f707d-5a5e-442b-aa9b-f0db65148c4a/steps/60dc35e3-0cd7-46f3-8fac-34cd8a3683bb/0695a18f-4d24-4560-acf8-65255b09b3f9.png?crop=focalpoint&fit=crop&fp-x=0.3215&fp-y=0.7352&fp-z=1.5593&w=1200&border=2%2CF4F2F7&border-radius=8%2C8%2C8%2C8&border-radius-inner=8%2C8%2C8%2C8&blend-align=bottom&blend-mode=normal&blend-x=0&blend-w=1200&blend64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmstdjIucG5n&mark-x=29&mark-y=956&m64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL2JsYW5rLnBuZz9tYXNrPWNvcm5lcnMmYm9yZGVyPTYlMkNGRjc0NDImdz0xNzAmaD02MSZmaXQ9Y3JvcCZjb3JuZXItcmFkaXVzPTEw)
 
 <br/>
-
-***
-Created with [Tango.us](https://tango.us?utm_source=markdown&utm_medium=markdown&utm_campaign=workflow%20export%20links)
