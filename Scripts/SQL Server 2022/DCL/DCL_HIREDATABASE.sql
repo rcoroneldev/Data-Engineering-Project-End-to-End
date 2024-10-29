@@ -1,6 +1,6 @@
 
 -- 1.  Create database 
-CREATE DATABASE hiredatabase;
+CREATE DATABASE hireemployee;
 GO
 
 -- 2.  Create user and passaword
@@ -13,7 +13,7 @@ ALTER LOGIN sa WITH PASSWORD = 'Pa$$wordapi12';
 CREATE LOGIN rcoronelhire WITH PASSWORD = 'Pa$$word1707%';
 GO
 
-USE hiredatabase;
+USE hireemployee;
 CREATE USER rcoronelhire FOR LOGIN rcoronelhire;
 GO
 

@@ -1,7 +1,11 @@
 -- Create database
 
-create database hiredatabase_db;
-use hiredatabase_db;
+create database hireemployee;
+use hireemployee;
+
+-- DDL SQL SERVER 
+
+-- START
 
 -- 1. Create table departments
 
@@ -34,28 +38,6 @@ CREATE TABLE hire_employees (
         REFERENCES jobs(id)
 );
 
-BULK INSERT departments
-FROM 'C:\Files\departments.csv'
-WITH (
-    FIELDTERMINATOR = ',',
-    ROWTERMINATOR = '\n'
-);
-
-BULK INSERT jobs
-FROM 'C:\Files\jobs.csv'
-WITH (
-    FIELDTERMINATOR = ',',
-    ROWTERMINATOR = '\n'
-);
-
-
-
-BULK INSERT hire_employees
-FROM 'C:\Files\hired_employees.csv'
-WITH (
-    FIELDTERMINATOR = ',',
-    ROWTERMINATOR = '\n'
-);
-
+-- END
 
 
